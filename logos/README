@@ -1,1 +1,25 @@
+# Logos
+Official RelevantTec logo assets. Do not modify, distort, or recolor.
 
+## Variants
+
+### Bars (horizontal lockup)
+- **bar_dark** — light logo for dark backgrounds
+- **bar_white** — dark logo for light backgrounds
+- **bar_white_large** — high-res version
+- **bar_white_md** — medium-res version
+- **bar_grey** — grey variant
+
+### Icons (square mark)
+- **ico_black** — black icon
+- **ico_grey** — grey icon
+- **ico_white** — white icon
+- **chat_ico_white** — chat/messaging variant
+
+### Backgrounds
+- **background** — standard background
+- **background_dark** — dark theme background
+- **background_mission** — mission statement background
+
+### Other
+- **logo_2line** — stacked two-line logo
